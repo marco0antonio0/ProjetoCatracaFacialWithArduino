@@ -1,6 +1,6 @@
 # Reconhecimento Facial em Vídeo com Simulação de Catraca
 
-https://github.com/user-attachments/assets/df54a932-5c31-411a-9d4e-baa82b44f90e
+https://github.com/user-attachments/assets/6e428713-54ec-40aa-adb2-0b7d46f221fd
 
 Este projeto implementa um sistema de reconhecimento facial em tempo real usando a webcam e simula o controle de uma catraca baseada na autenticação facial. Através da detecção facial, o programa comunica-se com um Arduino, que controla LEDs para representar o mecanismo de abrir ou fechar a catraca.
 
